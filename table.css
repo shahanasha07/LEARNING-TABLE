@@ -1,0 +1,22 @@
+body{
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+table{
+    margin-top:10%;
+    
+}
+tr:nth-child(even){
+    background-color: lightblue;
+}
+tr:nth-child(odd){
+    color: white;
+}
+h1{
+    text-align: center; 
+   position: relative;
+   top: 100PX;
+}
